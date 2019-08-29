@@ -3,9 +3,9 @@ package GoMybatis
 import (
 	"fmt"
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/zhuxiujia/GoMybatis/example"
-	"github.com/zhuxiujia/GoMybatis/tx"
-	"github.com/zhuxiujia/GoMybatis/utils"
+	"GoMybatis/example"
+	"GoMybatis/tx"
+	"GoMybatis/utils"
 	"sync"
 	"testing"
 	"time"

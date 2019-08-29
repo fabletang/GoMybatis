@@ -1,8 +1,8 @@
 package engines
 
 import (
-	"github.com/zhuxiujia/GoMybatis/lib/github.com/nytlabs/gojee"
-	"github.com/zhuxiujia/GoMybatis/utils"
+	"github.com/nytlabs/gojee"
+	"GoMybatis/utils"
 	"bytes"
 	"encoding/json"
 	"strings"

@@ -2,9 +2,9 @@ package GoMybatis
 
 import (
 	"database/sql"
-	"github.com/zhuxiujia/GoMybatis/ast"
-	"github.com/zhuxiujia/GoMybatis/engines"
-	"github.com/zhuxiujia/GoMybatis/utils"
+	"GoMybatis/ast"
+	"GoMybatis/engines"
+	"GoMybatis/utils"
 	"reflect"
 	"sync"
 )

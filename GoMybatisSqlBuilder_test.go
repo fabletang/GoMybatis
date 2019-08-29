@@ -1,11 +1,11 @@
 package GoMybatis
 
 import (
-	"github.com/zhuxiujia/GoMybatis/engines"
-	"github.com/zhuxiujia/GoMybatis/example"
-	"github.com/zhuxiujia/GoMybatis/lib/github.com/Knetic/govaluate"
-	"github.com/zhuxiujia/GoMybatis/lib/github.com/beevik/etree"
-	"github.com/zhuxiujia/GoMybatis/utils"
+	"GoMybatis/engines"
+	"GoMybatis/example"
+	"github.com/Knetic/govaluate"
+	"github.com/beevik/etree"
+	"GoMybatis/utils"
 	"fmt"
 	"testing"
 	"time"

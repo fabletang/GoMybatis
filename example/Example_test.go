@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/zhuxiujia/GoMybatis"
+	"GoMybatis"
 	"io/ioutil"
 	"testing"
 	"time"
